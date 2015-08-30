@@ -1,8 +1,0 @@
-\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\FormsControls\bin\Debug\FormsControls.dll
-\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\FormsControls\bin\Debug\FormsControls.pdb
-\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\FormsControls\obj\Debug\FormsControls.csprojResolveAssemblyReference.cache
-\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\FormsControls\obj\Debug\FormsControls.ActivityIndicator.resources
-\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\FormsControls\obj\Debug\FormsControls.Stepper.resources
-\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\FormsControls\obj\Debug\FormsControls.csproj.GenerateResource.Cache
-\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\FormsControls\obj\Debug\FormsControls.dll
-\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\FormsControls\obj\Debug\FormsControls.pdb
