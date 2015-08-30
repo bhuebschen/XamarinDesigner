@@ -88,8 +88,8 @@ namespace FetchForm
 											string IMGData = String.Concat(V.Value);
 											byte[] B = System.Convert.FromBase64String(IMGData);
 											var TempFile = System.IO.Path.GetTempFileName();
-											System.IO.File.WriteAllBytes(System.Environment.GetFolderPath(System.Environment.SpecialFolder.ApplicationData) + "/" + TempFile, B);
-											CP.Image = System.Environment.GetFolderPath(System.Environment.SpecialFolder.ApplicationData) + "/" + TempFile;
+											System.IO.File.WriteAllBytes(System.Environment.GetFolderPath(System.Environment.SpecialFolder.ApplicationData) + "/" + System.IO.Path.GetFileName(TempFile), B);
+											CP.Image = System.Environment.GetFolderPath(System.Environment.SpecialFolder.ApplicationData) + "/" + System.IO.Path.GetFileName(TempFile);
 											break;
 										case "ForeColor":
 											CP.TextColor = ColorExtensions.GetXColor(String.Concat(V.Nodes()));
