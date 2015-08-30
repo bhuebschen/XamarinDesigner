@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.3077</ProjectVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A61A83D2-BD1F-40D6-A3DA-8A80E4AA8BC0}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <AssemblyName>DesignerHost</AssemblyName>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <RootNamespace>DesignerHost</RootNamespace>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <ProductVersion>9.0.30729</ProductVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.Xml</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Global.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SampleDesignerApplication\KeystrokeMessageFilter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerApplication\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerApplication\PropertyGridSite.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerApplication\ServiceRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerApplication\ToolboxPane.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\ControlFactory.cs" />
+    <Compile Include="SampleDesignerHost\DesignerComponentCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\DesignerSerializationService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleDesignerHost.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleDesignerLoader.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleDesignerNameAttribute.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleDesignerSerializationManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleDesignerTransaction.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleDesignSite.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleDocumentWindow.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleEventBindingService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleInheritedNameExtenderProvider.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleMenuCommandService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleNameExtenderProvider.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleResourceService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleSelectionItem.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleSelectionService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleToolboxService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleTypeDescriptorFilterService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\SampleTypeResolutionService.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SampleDesignerHost\StringStack.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SampleDesignerApplication.MainForm.resources" />
+    <EmbeddedResource Include="SampleDesignerApplication.ServiceRequests.resources" />
+    <EmbeddedResource Include="SampleDesignerApplication.ToolboxPane.resources" />
+    <EmbeddedResource Include="SampleDesignerApplication\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SampleDesignerHost.SampleDocumentWindow.resources" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FormsControls\FormsControls.csproj">
+      <Project>{c57c5b92-f1c6-4e91-9aa5-3c9676f0d73f}</Project>
+      <Name>FormsControls</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

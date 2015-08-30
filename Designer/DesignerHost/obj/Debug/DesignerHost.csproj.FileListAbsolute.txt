@@ -1,0 +1,10 @@
+\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\DesignerHost\bin\Debug\DesignerHost.dll
+\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\DesignerHost\bin\Debug\DesignerHost.pdb
+\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\DesignerHost\obj\Debug\DesignerHost.csprojResolveAssemblyReference.cache
+\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\DesignerHost\obj\Debug\DesignerHost.Properties.Resources.resources
+\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\DesignerHost\obj\Debug\SampleDesignerApplication.MainForm.resources
+\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\DesignerHost\obj\Debug\DesignerHost.csproj.GenerateResource.Cache
+\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\DesignerHost\obj\Debug\DesignerHost.dll
+\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\DesignerHost\obj\Debug\DesignerHost.pdb
+\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\DesignerHost\bin\Debug\FormsControls.dll
+\\tsclient\systemiya-apple\Documents\XamarinDesigner\Designer\DesignerHost\bin\Debug\FormsControls.pdb

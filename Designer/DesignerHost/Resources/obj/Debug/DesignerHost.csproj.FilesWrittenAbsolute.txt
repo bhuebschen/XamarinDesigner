@@ -1,0 +1,6 @@
+/Volumes/Macintosh HD/Users/systemiya-apple/Documents/Users/Benedikt/documents/visual studio 2008/projects/ultracash/designerhost/obj/Debug/DesignerHost.SampleDesignerApplication.MainForm.resources
+/Volumes/Macintosh HD/Users/systemiya-apple/Documents/Users/Benedikt/documents/visual studio 2008/projects/ultracash/designerhost/obj/Debug/DesignerHost.SampleDesignerApplication.ServiceRequests.resources
+/Volumes/Macintosh HD/Users/systemiya-apple/Documents/Users/Benedikt/documents/visual studio 2008/projects/ultracash/designerhost/obj/Debug/DesignerHost.SampleDesignerApplication.ToolboxPane.resources
+/Volumes/Macintosh HD/Users/systemiya-apple/Documents/Users/Benedikt/documents/visual studio 2008/projects/ultracash/designerhost/obj/Debug/DesignerHost.SampleDesignerHost.SampleDocumentWindow.resources
+/Volumes/Macintosh HD/Users/systemiya-apple/Documents/Users/Benedikt/documents/visual studio 2008/projects/ultracash/designerhost/obj/Debug/SampleDesignerApplication.MainForm.resources
+/Volumes/Macintosh HD/Users/systemiya-apple/Documents/Users/Benedikt/documents/visual studio 2008/projects/ultracash/designerhost/obj/Debug/DesignerHost.dll

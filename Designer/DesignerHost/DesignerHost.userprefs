@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="DesignerHost.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleDesignerHost/SampleDesignerHost.cs">
+    <Files>
+      <File FileName="SampleDesignerHost/ControlFactory.cs" Line="1" Column="1" />
+      <File FileName="SampleDesignerHost/DesignerSerializationService.cs" Line="1" Column="1" />
+      <File FileName="SampleDesignerHost/DesignerComponentCollection.cs" Line="1" Column="1" />
+      <File FileName="SampleDesignerHost/SampleDesignerHost.cs" Line="26" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignerHost" expanded="True">
+            <Node name="DesignerHost" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="SampleDesignerApplication" expanded="True" />
+              <Node name="SampleDesignerHost" expanded="True">
+                <Node name="SampleDesignerHost.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

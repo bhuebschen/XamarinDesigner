@@ -1,0 +1,33 @@
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Release\ResolveAssemblyReference.cache
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Release\SampleDesignerApplication.MainForm.resources
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Release\DesignerHost.csproj.GenerateResource.Cache
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Release\ResolveAssemblyReference.cache
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Release\SampleDesignerApplication.MainForm.resources
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Release\DesignerHost.csproj.GenerateResource.Cache
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\DesignerHost.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\CustomPanelControl.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\KasseKassenBon.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\KISControls.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\TabletPCSupport.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\Uhr.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\UI.Glass.Panel.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\AddimatDeviceManager.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\SmartCardPlayer.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\Kasse.Sicherheit.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\MySql.Data.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\POSBitMap.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\GemCard.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\SmartCardPlayer.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\Uhr.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\Uhr.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\TabletPCSupport.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\TabletPCSupport.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\KasseKassenBon.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\KasseKassenBon.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\CustomPanelControl.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\CustomPanelControl.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\Kasse.Sicherheit.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\Kasse.Sicherheit.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\POSBitMap.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Release\GemCard.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Release\DesignerHost.dll

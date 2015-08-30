@@ -1,0 +1,9 @@
+
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Formular" children="Controls">
+    <Property name="Name">Formular</Property>
+    <Property name="DataBindings">
+      <Property name="DefaultDataSourceUpdateMode">OnValidation</Property>
+    </Property>
+    <Property name="ClientSize">1024, 768</Property>
+    <Property name="FormBorderStyle">None</Property>
+  </Object>

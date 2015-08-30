@@ -1,0 +1,144 @@
+C:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\SampleDesignerApplication.MainForm.resources
+C:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.csproj.GenerateResource.Cache
+C:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.dll
+C:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.pdb
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\DesignerHost.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\DesignerHost.pdb
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CustomPanelControl.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\KasseKassenBon.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\KISControls.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\TabletPCSupport.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Uhr.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\UI.Glass.Panel.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\AddimatDeviceManager.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\SmartCardPlayer.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.Sicherheit.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\MySql.Data.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\POSBitMap.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\GemCard.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\SmartCardPlayer.pdb
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Uhr.pdb
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Uhr.xml
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\TabletPCSupport.pdb
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\TabletPCSupport.xml
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\KasseKassenBon.pdb
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\KasseKassenBon.xml
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CustomPanelControl.pdb
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CustomPanelControl.xml
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.Sicherheit.pdb
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.Sicherheit.xml
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\POSBitMap.pdb
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\GemCard.pdb
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\SampleDesignerApplication.MainForm.resources
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.csproj.GenerateResource.Cache
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.dll
+D:\Users\sensei\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.pdb
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\DesignerHost.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\DesignerHost.pdb
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CustomPanelControl.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\KasseKassenBon.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\KISControls.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\TabletPCSupport.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Uhr.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\UI.Glass.Panel.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\AddimatDeviceManager.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\SmartCardPlayer.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.Sicherheit.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\MySql.Data.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\POSBitMap.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Microsoft.Ink.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\GemCard.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\SmartCardPlayer.pdb
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Uhr.pdb
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Uhr.xml
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\TabletPCSupport.pdb
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\TabletPCSupport.xml
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\KasseKassenBon.pdb
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\KasseKassenBon.xml
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CustomPanelControl.pdb
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CustomPanelControl.xml
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.Sicherheit.pdb
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.Sicherheit.xml
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\GemCard.pdb
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\SampleDesignerApplication.MainForm.resources
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.csproj.GenerateResource.Cache
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.dll
+C:\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\DesignerHost.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\DesignerHost.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CustomPanelControl.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\GlassButtonVB.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.exe
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\KasseKassenBon.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\KISControls.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\TabletPCSupport.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Uhr.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\UI.Glass.Panel.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.Sicherheit.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Mono.Security.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Npgsql.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\AddimatDeviceManager.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CookComputing.XmlRpcV2.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\RTBExVB.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\UnhandledExceptionFilter.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\ZedGraph.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Dongle.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\UPnP.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\GemCard.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\POSBitMap.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\SpreadsheetGear.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\SmartCardPlayer.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\MySql.Data.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.Sicherheit.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.Sicherheit.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CustomPanelControl.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CustomPanelControl.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Npgsql.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Npgsql.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\RTBExVB.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\UnhandledExceptionFilter.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\UnhandledExceptionFilter.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Dongle.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Dongle.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\GemCard.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\TabletPCSupport.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\TabletPCSupport.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\KasseKassenBon.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\KasseKassenBon.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\POSBitMap.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Uhr.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Uhr.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\SpreadsheetGear.xml
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\SmartCardPlayer.pdb
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\ResolveAssemblyReference.cache
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\SampleDesignerApplication.MainForm.resources
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.csproj.GenerateResource.Cache
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.dll
+Z:\Volumes\Macintosh HD\Users\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.pdb
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\DesignerHost.dll
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\DesignerHost.pdb
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CustomPanelControl.dll
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Uhr.dll
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.Sicherheit.dll
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\AddimatDeviceManager.dll
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\GemCard.dll
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\SmartCardPlayer.dll
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.Sicherheit.pdb
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Kasse.Sicherheit.xml
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CustomPanelControl.pdb
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\CustomPanelControl.xml
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\GemCard.pdb
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Uhr.pdb
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\Uhr.xml
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\bin\Debug\SmartCardPlayer.pdb
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\ResolveAssemblyReference.cache
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\SampleDesignerApplication.MainForm.resources
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.csproj.GenerateResource.Cache
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.dll
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.pdb
+Z:\Volumes\Macintosh HD\XUsers\systemiya-apple\Documents\Users\Benedikt\Documents\Visual Studio 2008\Projects\UltraCash\DesignerHost\obj\Debug\DesignerHost.Properties.Resources.resources
