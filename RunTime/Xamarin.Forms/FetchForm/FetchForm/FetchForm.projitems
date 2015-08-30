@@ -15,8 +15,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)ElementExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="$(MSBuildThisFileDirectory)example.xdx">
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)example.xdx">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>

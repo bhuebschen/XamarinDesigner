@@ -4,6 +4,7 @@ using Xamarin.Forms;
 using System.Linq;
 using System.Xml;
 using System.Xml.Linq;
+using System.Reflection;
 
 namespace FetchForm
 {
@@ -24,6 +25,16 @@ namespace FetchForm
 		public static NavigationPage Navigation;
 		public App instance;
 
+		#if __IOS__
+		public const string resourcePrefix = "FetchForm.iOS.";
+		#elif __ANDROID__
+		public const string resourcePrefix = "FetchForm.Droid.";
+		#elif __GTK__
+		public const string resourcePrefix = "FetchForm.GTK.";
+		#else
+		public const string resourcePrefix = "FetchForm.WinPhone.";
+		#endif
+
 		public App() {
 			MainPage = GetMainPage();
 		}
@@ -36,7 +47,8 @@ namespace FetchForm
 			var absLayout = new AbsoluteLayout();
 			absLayout.MinimumWidthRequest = ContentWidth;
 			absLayout.MinimumHeightRequest = ContentHeight;
-			XDocument newForm = XDocument.Load("example.xdx");
+			var assembly = typeof(App).GetTypeInfo().Assembly;
+			XDocument newForm = XDocument.Load(assembly.GetManifestResourceStream(resourcePrefix + "example.xdx"));
 			XElement XForm = ((XElement) newForm.FirstNode);
 			App.Navigation = new NavigationPage(cP);
 			App.CurrentPage = cP;
